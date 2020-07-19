@@ -1,9 +1,9 @@
-Dieses Logo beschreibt die gestalterische Grundlehre im Studiengang Media&Interaction Design.
-Diese Grundlehre besteht aus drei Modulen:
-- Grundlagen der zeichnerischen Darstellung
-- Grundlagen der Gestaltung - Form und Komposition
-- Grundlagen der Gestaltung - Systeme und Prozesse
+This logo describes the creative base-modules in the study-course Media & Interaction Design.
+The base-modules consist of three different Modules
+- Drawing and Sketching Basics
+- Design Basics - Form and Composition
+- Basic Design Skills - Systems and Processes
 
-Ziel war es, dass das Zeichen sich durch wechselnde und messbare Merkmale der Veranstaltungen in abstrahierter Form darstellt.
-Hierfür wurden die Anzahl der Anwesenden Studenten einer Veranstaltung, sowie die Temperatur im Raum als Variablen genommen.
-Wenn keine Werte festgestellt/ausgelesen werden können, hat das Logo ein "default-fallback" auf Schwarz, welches auch auf Dokumenten genutzt werden kann.
+The goal was to create a logo that adjusts based on ever-changing and calculatable variables of the courses in abstract form. 
+Taken variables are the amount of present students in a course as well as the temperatur in the room.
+If no input for the variable is given, the logo has a "default-fallback" to black, which can also be used on print-media.
